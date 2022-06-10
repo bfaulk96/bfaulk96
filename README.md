@@ -62,10 +62,6 @@ I am a Full Stack Developer currently residing in Tennessee <img src="https://me
 ### :fire: My Stats:
 
 <div id="stats" align="center">
-  <div id="streak">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bfaulk96&theme=dark&background=000000" alt="bfaulk96 Streak"/>
-  </div>
-  <div id="languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfaulk96&layout=compact&theme=vision-friendly-dark" alt="bfaulk96 Languages"/>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bfaulk96&theme=dark&background=000000" alt="bfaulk96 Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfaulk96&layout=compact&theme=vision-friendly-dark" alt="bfaulk96 Languages"/>
 </div>
