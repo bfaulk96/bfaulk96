@@ -19,10 +19,8 @@
 
 I am a Full Stack Developer currently residing in Tennessee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
-- :telescope: I’m working as a Sr. Software Engineer for Bayer, contributing to both frontend and backend applications
-  and utilizing AWS and GitHub Actions for infrastructure and CI/CD.
-
-- :seedling: Hoping to learn Rust soon.
+- :telescope: I’m working as a Product Engineer for Largely, contributing to our full-stack application
+  and utilizing AWS for infrastructure and CI/CD.
 
 - :zap: In my free time, I enjoy gaming, hiking, camping, watching/playing sports, and hanging out with friends.
 
