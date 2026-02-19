@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me:
 
-I am a Full Stack Developer currently residing in Tennessee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+I am a Full Stack Developer currently residing in Kentucky <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 - :telescope: I’m working as a Product Engineer for Largely, contributing to our full-stack application
   and utilizing AWS for infrastructure and CI/CD.
