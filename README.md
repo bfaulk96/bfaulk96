@@ -17,10 +17,9 @@
 
 ### :man_technologist: About Me:
 
-I am a Full Stack Developer currently residing in Kentucky <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+I am a Full-Stack Software Engineer currently residing in Kentucky <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
-- :telescope: I’m working as a Product Engineer for Largely, contributing to our full-stack application
-  and utilizing AWS for infrastructure and CI/CD.
+- :telescope: I’m working as a Sr. UI Software Engineer for SpecterOps
 
 - :zap: In my free time, I enjoy gaming, hiking, camping, watching/playing sports, and hanging out with friends.
 
